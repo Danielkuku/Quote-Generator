@@ -89,6 +89,9 @@ button:hover {
     width: 300px;
     height: 40vh;
   }
+  .input-box {
+    margin-bottom: 40px;
+  }
   .quote-box p {
     margin-top: 10px;
     margin-bottom: 30px;
